@@ -22,7 +22,11 @@ For this project, I was interestested in using Airbnb Amsterdam data to better u
 
 There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.
 
-This is purely a copy of the final version of my working notebook available on Kaggle [here](https://www.kaggle.com/thijsessens/how-hard-is-data-science-really).
+This is purely a copy of the final version of my working notebook available on Kaggle [here](https://www.kaggle.com/thijsessens/how-hard-is-data-science-really). The Kaggle kernel is fully operational and can access the data it needs easily. 
+
+## Data <a name="data"></a>
+
+The data file was too large to post to Github. You can find the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/erikbruin/airbnb-amsterdam).
 
 ## Results<a name="results"></a>
 
